@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saiganesh-1509
 - 👀 I’m interested in Photography and Computer Hardware
-- 🌱 I’m currently learning Programming Lnaguages
+- 🌱 I’m currently learning Programming Languages
 - 📫 How to reach me - saiganesh1868@gmail.com
 
 <!---
